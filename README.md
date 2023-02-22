@@ -1,10 +1,15 @@
 # trip_app_ui
 
-A new Flutter project.
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
+## ScreenShot
 
-## Getting Started
+<img src="assets/screenshot/one.png" height="500em" /><img src="assets/screenshot/two.png" height="500em" /><img src="assets/screenshot/three.png" height="500em" />
 
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
